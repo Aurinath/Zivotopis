@@ -75,8 +75,8 @@ table{
     text-align: center;
     border-spacing: 0;
     border-style: solid;
-    padding:30px 10px;
-    margin-left: 25%;
+    padding:auto;
+    margin-left:auto;
 
 }
 th, 
