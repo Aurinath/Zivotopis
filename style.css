@@ -76,7 +76,7 @@ table{
     border-spacing: 0;
     border-style: solid;
     padding:auto;
-    margin-left:auto;
+    margin:auto;
 
 }
 th, 
@@ -108,7 +108,7 @@ td{
 
 }
 
-.menu a:hover,
+
 .menu a:focus,
 .menu a:active
 {
@@ -117,6 +117,10 @@ td{
     border-color:lavender;
     border-style: solid;
 }
-nav{
-  width: unset;
+
+.menu a:hover
+{
+  background-color:rgb(140, 123, 173);
+  color: lavender;
 }
+
