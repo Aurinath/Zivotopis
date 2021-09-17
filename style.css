@@ -94,7 +94,6 @@ td{
     padding: 0;
     text-align: center;
     background-color: lavender;
-    
 }
 
 .menu li{
@@ -117,4 +116,7 @@ td{
     color: lavender;
     border-color:lavender;
     border-style: solid;
+}
+nav{
+  width: unset;
 }
